@@ -1,2 +1,2 @@
 # PHYS4200
-Activities, assignments, and projects from throughout the semester of the computational physics course.
+In this repository I have included various activities, assignments, and projects from throughout the computational physics course at California State University, Los Angeles. 
