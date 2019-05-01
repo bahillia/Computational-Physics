@@ -1,2 +1,4 @@
 # PHYS4200
 In this repository I have included various activities, assignments, and projects from throughout the computational physics course at California State University, Los Angeles. 
+
+In the Lab 4 python notebook, the main objective was to learn about importing datasets, signal processing, and introduce the techniques used for gravitational wave astronomy. The first part involved creating a dataset using arrays and exporting the data to a .txt file. Next, this information was exchanged to other classmates to ensure the data was indeed compatible and available for other users to create necessary plots. The rest of the code is a step by step tutorial about how LIGO (Laser Interferometry Gravitational-wave Observatory) uses signal processing to create scientific results which can determine characteristics regarding how gravitational waves are formed and disrupt space-time.
